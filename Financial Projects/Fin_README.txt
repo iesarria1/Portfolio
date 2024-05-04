@@ -1,5 +1,0 @@
-Coke vs. Pepsi Investment Analysis: We studied historical financial information of Coke and Pepsi using Excel. Data of the current carbonated beverage market was also analyzed using Tableau. 
-
-Index Investment Analysis: The performance of different kinds of investments was analyzed around the beginning of the century. Then, that performance was compared to their performance from the past year using Excel and index data.
-
-Benefit Cost Analysis of Trees: An article research project to discuss and analyze the costs and benefits of having trees in an urban area as well as determining the optimal age of trees to harvest timber.
