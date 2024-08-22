@@ -24,5 +24,5 @@ These following descriptions will summarize the details found in each folder reg
 
 •	Six Sigma Applications Simulation: Used statistics and Six Sigma tools to find statistical differences in revenue strategies and deviations in performance in a simulated live performance theater.   
 
-•	Tableau Marketing Analysis: Using Tableau, visualizations were created from Adidas sales data to make insights on consumer segmentations
+•	Tableau Marketing Analysis: Using Tableau, visualizations were created from Adidas sales data to make insights on consumer segmentations.
   
