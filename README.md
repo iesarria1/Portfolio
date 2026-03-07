@@ -2,9 +2,9 @@ Thank you for viewing my Github portfolio! When you click on a file, there is a 
 
 These following descriptions will summarize the details found in each folder regarding its contained project:
 
-•	Coke – Customer Duplicates: Used the Python Pandas library and data governance techniques to discover data redundancies in customer accounts.  
+•	Coke – Customer Duplicates: Identified duplicate customer records using Python (Pandas) and data governance techniques, improving master data integrity and supporting creation of a “golden record.”
 
-•	Data Mining Forecasting Project: Used multiple Python libraries to use different forecasting techniques to predict the last five years of US alcohol consumption in a dataset and compared those techniques to the dataset’s actual values.  
+•	Data Mining Forecasting Project: Built and compared multiple forecasting models to evaluate predictive accuracy for national alcohol consumption trends.
 
 •	Database Final Project: Used SQL and ERD diagrams to create a mock public bus database system for querying purposes.  
 
