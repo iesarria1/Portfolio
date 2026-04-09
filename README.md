@@ -1,30 +1,55 @@
-Thank you for viewing my Github portfolio! When you click on a file, there is a clickable link saying “View raw” so you can download the file, and there is also a button around the top right with an arrow pointing down to download the file.
+Data & analytics professional based in Lakeland, FL. Associate Analyst at Saddle Creek Logistics Services, finishing an MS in Engineering/Industrial Management at Florida Polytechnic University (Aug 2026). Focused on building toward a coding-heavy data role — Python, SQL, Databricks, and beyond.
 
-These following descriptions will summarize the details found in each folder regarding its contained project:
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
 
-•	Coke – Customer Duplicates: Identified duplicate customer records using Python (Pandas) and data governance techniques, improving master data integrity and supporting creation of a “golden record.”
+---
 
-•	Data Mining Forecasting Project: Built and compared multiple forecasting models to evaluate predictive accuracy for national alcohol consumption trends.
+## Featured projects
 
-•	Database Final Project: Used SQL and ERD diagrams to create a mock public bus database system for querying purposes.  
+### Coke — Customer Duplicates
+Identified duplicate customer records to support a golden record initiative, reducing master data redundancy in production.
+`Python` `Pandas` `Data Governance`
 
-•	Econometric Causal Inference Project: Uses causal inference techniques to find the predictors of and the effect of state legalization of medical marijuana on each state’s alcohol consumption.
+### Econometrics Causal Inference
+Used causal inference to measure the effect of medical marijuana legalization on state-level alcohol consumption.
+`R` `Regression` `Causal Inference`
 
-•	Financial Projects: A collection of financial and cost-benefit analyses via projects, work in Excel, and Tableau. This file has a “Fin_README.pdf” for more quick information.
+### Data Mining Forecasting
+Built and compared forecasting models to predict national alcohol consumption trends, evaluating accuracy across approaches.
+`Python` `Forecasting` `ML`
 
-•	Steam Data Analysis: Used multiple Python libraries to explore and analyze discovered trends of consumers of a online digital media platform that sells software. The data was was cleaned and wrangled to visualize changes in demand and actvity.
+### Hospital Price Analysis
+Cleaned and analyzed hospital procedure pricing data; built Tableau dashboard and OLS regression for a client-facing capstone.
+`Tableau` `R` `Regression`
 
-•	Global Video Game Sales Analysis: Used Python Pandas and Matplotlib’s data visualization libraries to identify some global preferences in video games since the 80s. 
+---
 
-•	Hopistal Price Analysis for Capstone: In the capstone project, we compiled and cleaned hospital procedure price data to then provide a Tableau dashboard, run a regression model, and demonstrate the discrepancies of reported prices.
+## All projects
 
-•	Idle Workers at Mosaic Café: Used Excel, random sampling, and statistics to do a work study for an on-campus café to make productivity insights.   
+| Project | Description | Tools |
+|---|---|---|
+| Steam Data Analysis | Consumer demand trends on a digital media platform | Python |
+| Global Video Game Sales | Global gaming preferences since the 1980s | Python, Pandas, Matplotlib |
+| Database Final Project | Mock public transit database design and querying | SQL, ERD |
+| Operations Research | Linear programming to optimize internship selection | Excel, LP |
+| Six Sigma Simulation | Revenue strategy analysis in a simulated theater | Minitab, Six Sigma, Statistics |
+| Reverse Logistics | Battery recovery logistics simulation | AnyLogic |
+| Idle Workers at Mosaic Café | Work study using random sampling for productivity insights | Excel, Statistics |
+| Tableau Marketing Analysis | Consumer segmentation from Adidas sales data | Tableau |
+| Financial Projects | Financial and cost-benefit analyses | Excel, Tableau |
 
-•	Operations Research Project: Used linear programming and scoring methods to help students choose internships based on job ratings, pay, and commutes.  
+---
 
-•	Reverse Logistics Project: Used AnyLogic modeling to simulate relationships between efficiency levels and costs in the logistical process of battery recovery.   
+## Certifications
+- Lean Six Sigma Yellow Belt
+- CFI Certification
 
-•	Six Sigma Applications Simulation: Used statistics and Six Sigma tools to find statistical differences in revenue strategies and deviations in performance in a simulated live performance theater.   
+---
 
-•	Tableau Marketing Analysis: Using Tableau, visualizations were created from Adidas sales data to make insights on consumer segmentations.
-  
+Connect with me on [LinkedIn](https://linkedin.com/in/isaiahsarria)
