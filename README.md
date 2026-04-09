@@ -46,10 +46,4 @@ Cleaned and analyzed hospital procedure pricing data; built Tableau dashboard an
 
 ---
 
-## Certifications
-- Lean Six Sigma Yellow Belt
-- CFI Certification
-
----
-
 Connect with me on [LinkedIn](https://linkedin.com/in/isaiahsarria)
