@@ -42,7 +42,7 @@ Cleaned and analyzed hospital procedure pricing data; built Tableau dashboard an
 | Reverse Logistics | Battery recovery logistics simulation | AnyLogic |
 | Idle Workers at Mosaic Café | Work study using random sampling for productivity insights | Excel, Statistics |
 | Tableau Marketing Analysis | Consumer segmentation from Adidas sales data | Tableau |
-| Financial Projects | Financial and cost-benefit analyses | Excel, Tableau |
+| Financial Projects | Financial and cost-benefit analyses | Excel, Tableau, Index Funds, Cost Benefit Analysis |
 
 ---
 
