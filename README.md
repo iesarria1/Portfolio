@@ -1,5 +1,6 @@
 Data & analytics professional based in Lakeland, FL. Transportation Analyst at Saddle Creek Logistics Services, finishing an MS in Engineering/Industrial Management at Florida Polytechnic University (Jun 2026). Focused on building toward a coding-heavy data role — Python, SQL, Databricks, and beyond.
 
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
